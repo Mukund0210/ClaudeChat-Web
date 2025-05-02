@@ -1,0 +1,9 @@
+Required dependencies:
+flask
+python-dotenv
+langchain
+langchain-anthropic
+Anthropic API key in a .env file
+
+To run:
+    python app_langchain.py
